@@ -4,7 +4,11 @@ from miniforecast.features import min_max_scale, moving_average
 
 
 def test_moving_average_window_two():
-    assert moving_average([1, 2, 3, 4], 2) == [1.0, 1.6666666666666665, 2.333333333333333]
+    assert moving_average([1, 2, 3, 4], 2) == [
+        1.0,
+        1.6666666666666665,
+        2.333333333333333,
+    ]
 
 
 def test_moving_average_rejects_too_large_window():
