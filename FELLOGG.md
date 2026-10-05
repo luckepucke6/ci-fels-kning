@@ -9,3 +9,7 @@ En rad per fel. Skriv medan du minns hur du gjorde.
 | 3  |                    |                         |                             |                   |
 
 Fortsätt tabellen med fler rader vid behov.
+
+
+1. Att det var fel vid line 11, det stod i github actions, kollade i körningarna, gick in och kollade koden
+2. 
